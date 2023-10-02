@@ -62,7 +62,7 @@ Displays a list of movies in which the actor has participated. Clicking on a mov
 
 <span id="start"></span>
 
-🏃 How to get started
+## 🏃 How to get started
 To run this application locally, follow these rules, navigate to the project directory in your terminal:
 
 * Clone repo: https://github.com/ollavka/star-wars-app.git<br />
