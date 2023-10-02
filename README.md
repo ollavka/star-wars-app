@@ -13,12 +13,12 @@ Welcome to the documentation for our Star Wars mobile application. This app is d
 The Home Screen is the initial screen users see when they open the app. It consists of two tabs:
 
 * **Movies Tab**:
-Displays a list of movies, in the form of movie title, release date and short description.. Users can click on a movie to navigate to the Movie Screen for detailed information. There is also a button to sort movies by release date above the list of movies:
+Displays a list of movies, in the form of movie title, release date and short description.. Users can click on a movie to navigate to the Movie Screen for detailed information. There is also a button to sort movies by release date above the list of movies:<br />
 ![Sort Movies](https://img001.prntscr.com/file/img001/A2qQQMcjTC-rpoCRNT36mA.png)
 <br />
 
 * **Favorite Characters Tab**:
-Shows a list of favorite actors. Clicking on an actor navigates the user to the Character Screen. Also on the button to switch the tab with the list of favorite actors there is a badge that shows the number of actors added to the favorites:
+Shows a list of favorite actors. Clicking on an actor navigates the user to the Character Screen. Also on the button to switch the tab with the list of favorite actors there is a badge that shows the number of actors added to the favorites:<br />
 ![Badge](https://img001.prntscr.com/file/img001/gBu9SGKVRFOEkAC8HpS-vQ.png)
 <br />
 
