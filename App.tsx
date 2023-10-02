@@ -1,12 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView } from 'react-native';
-import { GluestackProvider } from './providers/GluestackProvider';
-import GlobalStyles from './utils/GlobalStyles';
+import { GluestackProvider } from './src/providers/GluestackProvider';
+import GlobalStyles from './src/utils/GlobalStyles';
 import { NavigationContainer } from '@react-navigation/native';
-import { Navigator } from './components/Navigator';
-import { Provider as ApolloProvider } from './providers/ApolloProvider';
+import { Navigator } from './src/components/Navigator';
+import { Provider as ApolloProvider } from './src/providers/ApolloProvider';
 import { Provider } from 'react-redux';
-import { store } from './redux/store';
+import { store } from './src/redux/store';
 
 export default function App() {
   return (
