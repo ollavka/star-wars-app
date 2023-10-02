@@ -1,7 +1,7 @@
 # 🚀 Star Wars App
 Welcome to the documentation for our Star Wars mobile application. This app is designed with three main screens: the Home Screen, Movie Screen, and Actor Screen. Below, you'll find detailed information about the functionality of each screen, including tabs, navigation, and specific features.
 
-# 🌐 Functionality
+## 🌐 Functionality
 * [Home Screen](#home-screen) 
 * [Movie Screen](#movie-screen)
 * [Character Screen](#character-screen)
