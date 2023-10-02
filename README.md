@@ -34,7 +34,7 @@ Displays comprehensive details about the selected movie.
 Shows a list of actors who starred in the movie. Clicking on an actor navigates the user to the Character Screen.
 
 
-<span id="actor-screen"></span>
+<span id="character-screen"></span>
 
 ## 🎭 Character Screen
 The Actor Screen contains information about a specific actor and has two tabs:
